@@ -1,0 +1,6 @@
+{
+    "title": "Simple User System",
+    "message": "PHP environment is necessary to this project.\n\ndata/users.json: Registered user information.\n\nExperience now by clicking [Run]!",
+    "target": "index.html",
+    "previewability": true
+}
